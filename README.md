@@ -1,4 +1,1 @@
-# demo
-first repository
-<br>
-author - pranav 
+demo repo for practice
